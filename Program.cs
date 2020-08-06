@@ -4,8 +4,6 @@ using System.Collections.Specialized;
 using System.Net;
 using System.Threading;
 
-// hi, its open sourced!
-
 namespace Gamer_Spammer
 {
     class Http
