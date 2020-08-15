@@ -4,7 +4,7 @@ using System.Collections.Specialized;
 using System.Net;
 using System.Threading;
 
-namespace Gamer_Spammer
+namespace coasts_Spammer
 {
     class Http
     {
